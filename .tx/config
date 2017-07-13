@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[woocommerce-match-box.sebastien-d]
+file_filter = languages/woocommerce-match-box-<lang>.po
+source_file = resources/woocommerce-match-box.pot
+source_lang = en_US
+type = PO
